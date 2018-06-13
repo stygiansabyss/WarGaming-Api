@@ -14,8 +14,8 @@
 
     "require": {
         "php": ">=5.3.3",
-        "symfony/validator": "~2.5",
-        "symfony/filesystem": "~2.5",
+        "symfony/validator": "~4.1",
+        "symfony/filesystem": "~4.1",
         "doctrine/annotations": "~1.7.0",
         "guzzle/guzzle": "3.9.2"
     },
